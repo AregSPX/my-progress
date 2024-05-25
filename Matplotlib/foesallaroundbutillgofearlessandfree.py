@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-df = pd.read_csv('puk.csv', parse_dates=True)
+df = pd.read_csv('red.csv', parse_dates=True)
 
 plt.style.use('fivethirtyeight')
 
